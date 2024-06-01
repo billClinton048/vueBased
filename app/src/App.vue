@@ -4,14 +4,14 @@
     <div class="mt-4">
       <RouterView />
     </div>
-    <Footer />
+    <Cards />
   </div>
 </template>
 
 <script setup>
 import { RouterView } from "vue-router";
 import Header from "./components/Header.vue";
-import Footer from "./components/Footer.vue";
+import Cards from "./components/Cards.vue";
 </script>
 
 <style scoped></style>
