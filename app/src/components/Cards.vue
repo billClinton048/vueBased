@@ -5,7 +5,18 @@
         <div class="w-full flex flex-col justify-between items-center h-64 rounded-xl bg-indigo-900">
         <h1 class="text-xl text-white  mt-8">Button One.</h1>
 
-        <button class="mb-8 border-none bg-indigo-600 py-2 px-6 rounded-3xl shadow">Start a 14-day free trial</button>
+        <button class="mb-8 border-none bg-indigo-600 py-2 px-6 rounded-3xl hover:bg-indigo-800  shadow">Start a 14-day free trial</button>
+        </div>
+
+        <div class="w-full flex flex-col justify-between items-center h-64 rounded-xl bg-indigo-900">
+        <h1 class="text-xl text-white  mt-8">Button Two.</h1>
+
+        <button class="mb-8 border-none bg-white py-2 px-6 rounded-3xl hover:bg-indigo-600  shadow">Start a 14-day free trial</button>
+        </div>
+        <div class="w-full flex flex-col justify-between items-center h-64 rounded-xl bg-indigo-900">
+        <h1 class="text-xl text-white  mt-8">Button Three.</h1>
+
+        <button class="mb-8 border-none bg-indigo-600 py-2 px-6 rounded-3xl hover:bg-indigo-800  shadow">Start a 14-day free trial</button>
         </div>
 
         
