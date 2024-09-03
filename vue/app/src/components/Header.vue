@@ -1,0 +1,7 @@
+<template>
+  <div>Header hello </div>
+</template>
+
+<script setup></script>
+
+<style lang="scss" scoped></style>
